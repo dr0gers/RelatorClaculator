@@ -5,7 +5,7 @@
 * Statement: Determine owner, selling cost and commission for house sale
 * Specifications:
 * Input  - owner
-*        - selling cost
+*        - sales price
 * Output - owner
 *        - selling cost
 *        - commission
